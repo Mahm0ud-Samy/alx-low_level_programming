@@ -3,7 +3,13 @@
 #include <time.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * main - entry point
+ *
+ * Description : check if the number is negative or positive
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;

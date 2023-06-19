@@ -8,7 +8,7 @@
  *
  * Description: we are gonna get the last digit and check whether it is 0 or
  *
- * Retrun: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

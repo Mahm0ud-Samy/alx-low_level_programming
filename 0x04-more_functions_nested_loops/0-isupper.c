@@ -7,7 +7,7 @@
  *
  *  Return: Always 0.
  */
-bool _isupper(char c)
+bool _isupper(int c)
 {
 	return (c >= 'A' && c <= 'Z');
 }

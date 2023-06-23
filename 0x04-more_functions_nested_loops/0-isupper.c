@@ -1,11 +1,11 @@
 #include <stdbool.h>
 
 /**
- *  main - check the code.
+ *  _isupper - check if c is upper.
  *
- *  Description: print uppercase letters
+ *  @c: input for alphabet
  *
- *  Return: Always 0.
+ *  Return: 1 if it is uppercase, 0 if not.
  */
 bool _isupper(int c)
 {

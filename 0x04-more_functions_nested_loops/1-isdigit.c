@@ -1,11 +1,11 @@
 #include <stdbool.h>
 
 /**
- * main - entry point
+ * _isdigit - check if it is a digit or not
  *
- * Description: whatever your description is
+ * @c: input for digit
  *
- * Return: Always 0 (Succes).
+ * Return: 1 if it is digit, 0 if it is not.
  */
 int _isdigit(int c)
 {

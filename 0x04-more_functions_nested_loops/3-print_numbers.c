@@ -2,11 +2,10 @@
 #include "main.h"
 
 /**
- * _putchar - writes the charcter c to stdout
- * @c: The character to print
+ * print_numbers - print all numbers from 0 to 9
  *
- * Return: On success 1.
- *         On error, -1 is returned, and errno is set appropiately.
+ * Return: the numbers from 0 to 9
+ *
  */
 void print_numbers(void)
 {

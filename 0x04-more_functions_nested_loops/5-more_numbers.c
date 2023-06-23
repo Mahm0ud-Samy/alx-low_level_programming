@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * more_numers - print numbers from 0 to 14 for 1o times
+ * more_numbers - print numbers from 0 to 14 for 1o times
  *
  * Return: 1o times from 0 to 14 the numbers
  *
@@ -16,8 +16,8 @@ void more_numbers(void)
 	{
 		for (j = 0; j <= 14; i++)
 		{
-			_putchar('0' +j);
+			_putchar('0' + j);
 		}
-	_putchar('\n');	
-        }
+		_putchar('\n');
+	}
 }
